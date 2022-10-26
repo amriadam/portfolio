@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me.jpeg'
 import {FaAward} from 'react-icons/fa'
 import { styled } from '@mui/material/styles';
 import Button from '@mui/material/Button';
